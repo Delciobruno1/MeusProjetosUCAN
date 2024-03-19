@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Exe004:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Exe004_jar</output-path>
+    <root id="archive" name="Exe004.jar">
+      <element id="module-output" name="Exe004" />
+    </root>
+  </artifact>
+</component>
